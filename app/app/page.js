@@ -12,8 +12,8 @@ function Page() {
     <div className='h-screen'>
       <Header />
       <Home></Home>
-      <Tech></Tech>
       <Service></Service>
+      <Tech></Tech>
       <Crew></Crew>
       <Contactus></Contactus>
       <Footer></Footer>
