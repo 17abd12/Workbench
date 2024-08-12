@@ -35,7 +35,7 @@ function Contactus() {
           setComment("");
         }
         return (
-          <div  id = "Contact us" className='md:px-12 w-full p-4 text-wrap italic md:text-5xl text-2xl flex flex-wrap'>
+          <div  id = "Contact" className='md:mx-32  w-full p-4 text-wrap italic md:text-5xl text-2xl flex flex-wrap'>
             <h1 className='w-2/3 text-dark-text'
             >Contact Us</h1>
         <div className='display flex '>

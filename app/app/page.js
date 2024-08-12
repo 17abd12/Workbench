@@ -11,10 +11,10 @@ function Page() {
   return (
     <div className='h-screen'>
       <Header />
-      <Home></Home>
+      <Home id="Home"></Home>
       <Service></Service>
       <Tech></Tech>
-      <Crew></Crew>
+      <Crew ></Crew>
       <Contactus></Contactus>
       <Footer></Footer>
     </div>

@@ -11,7 +11,7 @@ for (let i = 0; i < 8; i++) {
 function Tech() {
   return (
     <div className='
-     bg-light-primary'>
+     bg-light-primary'  id="Tech">
      <div className=' text-center my-auto text-dark-text  text-xl'>
       <h1 className='text-5xl font-satisfy py-5 font-medium'style={{
           background: 'linear-gradient(to right, #47D785, #3D63DD)',

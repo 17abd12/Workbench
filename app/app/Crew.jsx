@@ -10,7 +10,7 @@ function Crew() {
  }
 
   return (
-    <div className='py-10'  style={{background:"linear-gradient(to right, #47D785, #3D63DD)"}}>
+    <div className='py-10'  style={{background:"linear-gradient(to right, #47D785, #3D63DD)"}} id = "Crew">
       <div className=' text-center my-auto text-light-primary text-xl'>
       <h1 className='text-5xl font-satisfy py-5 text-dark-text font-medium'
       >

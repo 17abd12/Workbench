@@ -20,7 +20,7 @@ function Service() {
         <h1 className="mx-16 text-balance">Providing tailored services is a key pathway to the success of businesses. Our professional team also brings creative aesthetics to enhance the overall experience</h1>
 
       </div>
-      <div className='my-10'>
+      <div className='my-10'  id="Services">
 
       <div className='flex justify-center'>
         <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16'>
