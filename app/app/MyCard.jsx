@@ -1,7 +1,7 @@
 import React from 'react'
 import Card from '@mui/material/Card';
 import WebIcon from '@mui/icons-material/Web';
-import App from '../public/App-Logo.png'
+// import App from '../public/App-Logo.png'
 import Image from 'next/image'
 
 function MyCard({data}) {
