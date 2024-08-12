@@ -10,7 +10,7 @@ function Home() {
           WebkitBackgroundClip: 'text',
           WebkitTextFillColor: 'transparent'
         }}>JEEWAY BHUTTO</h1>
-        <p className='lg:text-xl leading-relaxed' >
+        <p className='lg:text-xl leading-relaxed text-dark-text' >
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, mollitia fuga ea eum reprehenderit at totam eius aliquam omnis doloribus repudiandae, accusantium blanditiis adipisci deserunt! A dicta assumenda magnam est laboriosam asperiores soluta mollitia doloribus optio, dolorum ea quasi iste, reiciendis adipisci? Exercitationem tempore porro voluptatum tempora fuga corrupti quisquam!
         </p>
         </div>

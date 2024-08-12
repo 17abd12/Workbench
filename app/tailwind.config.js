@@ -17,7 +17,7 @@ module.exports = {
         dark: {
           primary: '#1a1a1a', // Dark theme primary color
           secondary: '#333333', // Dark theme secondary color
-          text: '#3657C3', // Dark theme text color
+          text: '#03045e', // Dark theme text color
         },
       },
     },
