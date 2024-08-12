@@ -14,7 +14,7 @@ function Footer() {
     <a href="https://www.instagram.com/"><FacebookIcon fontSize="large"  style={{ color: 'white' }}/></a>
     <a href="https://www.instagram.com/"><TwitterIcon fontSize="large"  style={{ color: 'white' }}/></a>
     </div>
-      <h1 className='text-light-primary text-lg text-center mb-0'>
+      <h1 className='text-light-primary text-lg text-center mb-5'>
       Created by Abd. All Rights Reserved.
         </h1>
     </div>
