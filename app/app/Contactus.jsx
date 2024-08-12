@@ -35,7 +35,7 @@ function Contactus() {
           setComment("");
         }
         return (
-          <div  id = "Contact" className='md:mx-32  w-full p-4 text-wrap italic md:text-5xl text-2xl flex flex-wrap'>
+          <div  id = "Contact" className='md:mx-32 md:w-3/4  w-full p-4 text-wrap italic md:text-5xl text-2xl flex flex-wrap'>
             <h1 className='w-2/3 text-dark-text'
             >Contact Us</h1>
         <div className='display flex '>
@@ -76,7 +76,7 @@ function Contactus() {
             </div>
 
 
-        <Image src = {phone} className='w-1/2 md:flex mr-44 hidden'/>
+        <Image src = {phone} className='w-1/2 md:flex hidden object-contain'/>
         </div>
         </div>
     )
