@@ -1,27 +1,19 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./app/**/*.{js,ts,jsx,tsx}",
+    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {
       colors: {
-        // Define colors for both light and dark themes
-        light: {
-          primary: '#f8f9fa', // Light theme primary color
-          secondary: "linear-gradient(to right, #47D785, #3D63DD)", // Light theme secondary color
-          text: '#f8f9fa', // Light theme text color
-        },
-        dark: {
-          primary: '#1a1a1a', // Dark theme primary color
-          secondary: '#333333', // Dark theme secondary color
-          text: '#03045e', // Dark theme text color
-        },
+        primary: "#000000", // Customize primary color
+        secondary: "#ffffff", // Customize secondary color
+      },
+      fontFamily: {
+        custom: ["'Roboto Slab'", "serif"], // Customize font
       },
     },
   },
-  darkMode: 'class', // Enable dark mode with a class
   plugins: [],
 };
